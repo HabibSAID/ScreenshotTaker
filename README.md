@@ -1,4 +1,4 @@
-As simple C# Unity script to capture screenshots from the game view window.
+A simple C# Unity script to capture screenshots from the game view window.
 It works in both play mode and outside of it.
 -If you provide a folder name (e.g., "Screenshots"), it will save images in that folder.
 -If the folder doesn’t exist, it will be created automatically.
